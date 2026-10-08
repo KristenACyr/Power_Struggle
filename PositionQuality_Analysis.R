@@ -400,7 +400,7 @@ if (inherits(highlowconfig1, "sf")) {
 }
 
 # Calculate 95% MCP
-mcp_res1 <- mcp(
+mcp_res1 <- adehabitatHR::mcp(
   highlowconfig1_sp[, "Transmitter"],
   percent = 95
 )
