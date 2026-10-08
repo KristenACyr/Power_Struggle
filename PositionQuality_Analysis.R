@@ -1,8 +1,5 @@
 #### Reference Tag Paper - MCP Analysis, Accuracy and Precision
 
-## set directory
-setwd("D:/Documents/Masters/CoLab paper/REFTAG/R Code")
-
 ## running packages
 library(sf)
 library(dplyr)
